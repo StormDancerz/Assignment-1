@@ -23,5 +23,5 @@ While I was able to count the number of primes that each thread found individual
 Runtime: The runtime of the program typically took about 19 seconds
 
 Instructions:
-Open terminal on your computer and navigate to the directory that Assignment1.java is saved in. Type javac Assignment1.java and then java Assignment1 in the terminal to run the program 
+Open terminal on your computer and navigate to the directory that Assignment1.java is saved in. Type javac ass1.java and then java ass1 in the terminal to run the program 
 
